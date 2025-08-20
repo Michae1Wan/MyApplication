@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Navbar -->
+    <string name="navbar_title_profile">Profile</string>
+    <string name="navbar_title_restaurants">Restaurants</string>
+    <string name="navbar_title_settings">Settings</string>
+
+    <!-- System messages -->
+    <string name="message_no_offer">There is currently no offer available.</string>
+
+    <!-- Error messages -->
+    <string name="error_message_generic">Something went wrong 😕</string>
+    <string name="error_button_default_text">Retry</string>
+    <string name="error_image_description">Error icon</string>
+</resources>
